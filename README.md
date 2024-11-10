@@ -9,9 +9,9 @@
 
 ## Programming Platform
 
-### model training
+### model training framework
 
- - PaddlePaddle
+ - PaddleLite
  
 ### FPGA 
 
